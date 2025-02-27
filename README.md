@@ -1,2 +1,2 @@
 # Web-Application-Development
-projects developed using HTML, CSS, and JavaScript.
+projects developed using HTML, CSS, JavaScript, TypeScript, Tailwind CSS and React.
