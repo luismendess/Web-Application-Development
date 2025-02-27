@@ -1,0 +1,22 @@
+h1 {
+    color: #DDA0DD;
+    font-family: arial;
+    font-weight: bold;
+}
+
+h2 {
+    color: #3366FF;
+    font-family: arial;
+    font-variant: small-caps;
+}
+
+p.p1{
+    font-family: serif;
+    font-size: x-small;
+    font-style: italic;
+}
+p.p2{
+    font-family: sans-serif;
+    font-size: 90%;
+    font-style: oblique;
+}
